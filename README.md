@@ -18,7 +18,7 @@
 
 
 
-- 🔭 I’m currently working **as a MERN Stack Developer.**
+- 🔭 I’m currently working **as a Front-end Developer.**
 
 - 🌱 I’m currently learning **C++ , DSA**
 
@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **anything as I am passionate about technology.**
 
-- 📫 How to reach me **: Reach me through LinkedIn https://www.linkedin.com/in/md-saif-ali-656abb228//**
+- 📫 How to reach me **: Reach me through LinkedIn https:https://www.linkedin.com/in/muskan-mishra-2a97b923a/**
 
 - ⚡ Fun fact **: I love to travel.**
 
